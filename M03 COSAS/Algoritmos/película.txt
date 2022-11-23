@@ -1,0 +1,10 @@
+1.Ver la cartelera
+2.Escoger la pelicula que quieres ir a ver
+3.Comprar las entradas por internet/taquilla
+4.Escoger los asientos
+5.Comprar palomitas y refresco
+6.Enseñar la entrada al revisor
+7.Entrar en la sala
+8.Encontrar tu asiento
+9.Sentarse
+10.Ver la película
